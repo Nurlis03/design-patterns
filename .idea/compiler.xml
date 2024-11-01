@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="proxy" />
+        <module name="factory" />
         <module name="decorator" />
         <module name="adapter" />
       </profile>
